@@ -3,7 +3,6 @@ Final paper in which I analyze data regarding the advance in scientific producti
 
 
 ### Repository link:
-<div> 
-  <a href="https://repositorio.ufrn.br/handle/123456789/46001" target="_blank"></a> 
+https://repositorio.ufrn.br/handle/123456789/46001
  
-</div>
+
