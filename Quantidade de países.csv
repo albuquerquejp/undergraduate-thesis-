@@ -1,0 +1,40 @@
+﻿Scopus-175-Analyze-Country
+
+"Your query : (( TITLE-ABS-KEY ( ""payment for environmental service"" ) OR TITLE-ABS-KEY ( ""payment for ecosystem service"" ) ) AND PUBYEAR > 2005 AND PUBYEAR < 2022 AND ( LIMIT-TO ( AFFILCOUNTRY,""Brazil"" ) )  AND ( LIMIT-TO ( DOCTYPE,""ar"" ) ) )"
+
+
+Number of results : 175
+
+"COUNTRY/TERRITORY",
+"Brazil","175"
+"United States","42"
+"United Kingdom","22"
+"Germany","20"
+"Canada","11"
+"France","10"
+"Netherlands","9"
+"Australia","8"
+"Colombia","7"
+"Switzerland","7"
+"Indonesia","6"
+"Spain","6"
+"Denmark","5"
+"Mexico","5"
+"Portugal","5"
+"Sweden","5"
+"Kenya","4"
+"Bolivia","3"
+"Norway","3"
+"Belgium","2"
+"Mozambique","2"
+"Peru","2"
+"Poland","2"
+"Argentina","1"
+"Belarus","1"
+"Costa Rica","1"
+"Ecuador","1"
+"Nepal","1"
+"Sao Tome and Principe","1"
+"Suriname","1"
+"Tanzania","1"
+"Turkey","1"
